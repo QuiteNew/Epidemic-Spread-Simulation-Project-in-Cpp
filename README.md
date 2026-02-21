@@ -7,6 +7,9 @@ This project is for the subject Objective Programming
 ### Project Expansion Details
 The epidemic spread simulation project will simulate the spread of a disease (virus) in a population over time. The disease will impact the population in different ways, depending on the rate of transmission, rate of recovery, and interaction between people. The simulation will include time-stepping to simulate the spread of the disease over multiple cycles (days or weeks). Users will be able to change parameters such as the infection rate, number of people initially infected, and other parameters. Core Features: Population Structure: The population will be made up of people, each of whom will have a status: Susceptible (S), Infected (I), or Recovered (R). Each person can change status from S to I (infection), and from I to R (recovery). The simulation will track these changes over time.
 
+SFML (Simple and Fast Multimedia Library) is used in this project to provide real-time graphical visualization of the epidemic simulation.
+A small circle representingeach person will smoothly move across the screen, with colourcodingto indicate health status:susceptible = blue;infected = red;recovered = green;dead = grey;vaccinated = yellow. The library createswindows, polls for event responses, renders all persons and supplies live statistics at the top of the screen,thusallowingforvisual and engaging presentationofthe progression of disease while achieving high performance with the thousands of agents.
+
 More details about this project can be found in the <a href="./Epidemic%20Spread%20Simulator%20documentation.pdf"><u>project documentation</u></a>. 
 
 ### Model of the simulation
