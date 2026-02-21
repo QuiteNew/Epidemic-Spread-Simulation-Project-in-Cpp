@@ -7,7 +7,7 @@ This project is for the subject Objective Programming
 ### Project Expansion Details
 The epidemic spread simulation project will simulate the spread of a disease (virus) in a population over time. The disease will impact the population in different ways, depending on the rate of transmission, rate of recovery, and interaction between people. The simulation will include time-stepping to simulate the spread of the disease over multiple cycles (days or weeks). Users will be able to change parameters such as the infection rate, number of people initially infected, and other parameters. Core Features: Population Structure: The population will be made up of people, each of whom will have a status: Susceptible (S), Infected (I), or Recovered (R). Each person can change status from S to I (infection), and from I to R (recovery). The simulation will track these changes over time.
 
-More details about this project can be found in the project documentation. 
+More details about this project can be found in the <a href="./Epidemic%20Spread%20Simulator%20documentation.pdf"><u>project documentation</u></a>. 
 
 ### Model of the simulation
 Transmission & Recovery Model: Infection: Susceptible individuals become infected based on the infection rate (β). This depends on interactions with infected individuals. Recovery: Infected individuals recover over time based on a recovery rate (γ), moving from Infected (I) to Recovered (R) after a certain period. 
