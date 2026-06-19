@@ -2,7 +2,7 @@
 
 ### Project Explanation
 The Epidemic Spread Simulation Project, firstly done created in <a href="https://github.com/QuiteNew/Computing-and-Algorithms-Project-"><u>Flowgorithm</u></a> for the subject Computing and Algorithms can be expanded to a more complex project, including features such as complex epidemic spread models, interaction between people, and more user interaction. 
-This project is for the subject Objective Programming
+This project is for the subject [Objective Programming](github.com/QuiteNew/Objective-Programming-UACS).
 
 ### Project Expansion Details
 The epidemic spread simulation project will simulate the spread of a disease (virus) in a population over time. The disease will impact the population in different ways, depending on the rate of transmission, rate of recovery, and interaction between people. The simulation will include time-stepping to simulate the spread of the disease over multiple cycles (days or weeks). Users will be able to change parameters such as the infection rate, number of people initially infected, and other parameters. Core Features: Population Structure: The population will be made up of people, each of whom will have a status: Susceptible (S), Infected (I), or Recovered (R). Each person can change status from S to I (infection), and from I to R (recovery). The simulation will track these changes over time.
