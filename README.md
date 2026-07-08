@@ -1,7 +1,7 @@
 # Epidemic Spread Simulation Project in C++
 
 ### Project Explanation
-The Epidemic Spread Simulation Project, firstly done created in <a href="https://github.com/QuiteNew/Computing-and-Algorithms-Project-"><u>Flowgorithm</u></a> for the subject Computing and Algorithms can be expanded to a more complex project, including features such as complex epidemic spread models, interaction between people, and more user interaction. 
+The Epidemic Spread Simulation Project, firstly done created in <a href="https://github.com/QuiteNew/Computing-and-Algorithms-Project-"><u>Flowgorithm</u></a> for the subject Computing and Algorithms. It can be expanded to a more complex project, including features such as complex epidemic spread models, interaction between people within the simulation, and more user control.
 This project is for the subject [Objective Programming](github.com/QuiteNew/Objective-Programming-UACS).
 
 ### Project Expansion Details
